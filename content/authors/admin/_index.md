@@ -26,7 +26,7 @@ bio: I'm interested in the evolution of plant photosynthesis and stress response
 
 # Interests to show in About widget
 interests:
-  - Flowering plants (especially _Portulaca_)
+  - Flowering plants
   - Comparative biology
   - Phylogenomics
   - Plant ecophysiology
@@ -51,24 +51,13 @@ education:
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
-  - name: Technical
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: python
-        icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
-      - name: R
-        description: ''
-        percent: 40
-        icon: r-project
-        icon_pack: fab
+# skills:
+#  - name: Technical
+#    items:
+#      - name: Python
+#        description: ''
+#        icon: python
+#        icon_pack: fab
 #  - name: Hobbies
 #    color: '#eeac02'
 #    color_border: '#f0bf23'
@@ -105,5 +94,5 @@ social:
 highlight_name: true
 ---
 
-Ian S. Gilman is a National Science Foundation (NSF) Postdoctoral Fellow in Biology studying the evolution of photosynthetic gene networks in the lab of Dr. Robert VanBuren at Michigan State University.
+Ian S. Gilman is a National Science Foundation (NSF) Postdoctoral Research Fellow in Biology studying the evolution of photosynthetic gene networks in the lab of Dr. Robert VanBuren at Michigan State University.
 {style="text-align: justify;"}
