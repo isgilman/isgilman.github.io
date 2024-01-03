@@ -42,14 +42,6 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: skills
-    content:
-      title: Skills
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
-    design:
-      columns: '1'
   - block: experience
     content:
       title: Experience
@@ -63,14 +55,17 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: NSF Postdoctoral Research Fellow in Biology
-          company: VanBuren Lab, Michigan State University
+          company: Dept. of Horticulture and Plant Resilience Institute, Michigan State University
           company_url: 'https://plantresilience.msu.edu'
           # company_logo: org-gc
           location: East Lansing, MI, USA
           date_start: '2023-06-15'
           date_end: ''
           description: |2-
-              Dept. of Horticulture and Plant Resilience Institute
+              NSF PRFB (Area 3: Plant Genomes). Project aims include
+                - Optimize single-nuclei RNAseq (snRNAseq) workflow for non-model species _Portulaca amilis_
+                - Combine snRNAseq and chromatin accessibility assays to build photosynthetic gene regulatory networks in _P. amilis_
+                - Comparative genomic analyses of species with differing Crassulacean acid metabolism (CAM) phenotypes
 
     design:
       columns: '2'
@@ -213,6 +208,14 @@ sections:
     design:
       columns: '2'
       view: compact
+  - block: skills
+    content:
+      title: Skills
+      text: ''
+      # Choose a user to display skills from (a folder name within `content/authors/`)
+      username: admin
+    design:
+      columns: '1'
   - block: tag_cloud
     content:
       title: Popular Topics
