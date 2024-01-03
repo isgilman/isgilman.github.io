@@ -33,3 +33,4 @@ education:
   - MS: Ecology & Evolutionary Biology, Yale University (2021)
   - MS: Biological Sciences, University of Idaho (2017)
   - BS: Physics, Bucknell University (2015)
+---
