@@ -14,8 +14,8 @@ role: NSF Postdoctoral Research Fellow in Biology
 
 # Organizations/Affiliations to Show in About widget
 organizations: 
-- name: Dept. of Horticultute and Plant Resilience Institute at Michigan State University
-- url: https://plantresilience.msu.edu
+  - name: Dept. of Horticultute and Plant Resilience Institute at Michigan State University
+  - url: https://plantresilience.msu.edu
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research focuses on the evolution of plant photosynthesis and stress response.
