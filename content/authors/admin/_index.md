@@ -19,7 +19,7 @@ role: NSF Postdoctoral Research Fellow in Biology
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Dept. of Horticulture & Plant Resilience Institute at Michigan State University
-    url: [https://www.stanford.edu/](https://plantresilience.msu.edu)
+#    url: [https://www.stanford.edu/](https://plantresilience.msu.edu)
 
 # Short bio (displayed in user profile at end of posts)
 bio: I'm interested in the evolution of plant photosynthesis and stress responses
@@ -39,7 +39,7 @@ education:
     - course: PhD in Ecology & Evolutionary Biology
       institution: Yale University
       year: 2023
-    - course: MSc in Ecology & Evolutionary Biolgoy
+    - course: MSc in Ecology & Evolutionary Biology
       institution: Yale University
       year: 2021
     - course: MSc in Biological Sciences
