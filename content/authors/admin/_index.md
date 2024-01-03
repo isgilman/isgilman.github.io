@@ -1,13 +1,10 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+title: Ian S. Gilman
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Ian
+last_name: Gilman
 
 # Status emoji
 status:
@@ -17,34 +14,40 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: NSF Postdoctoral Research Fellow in Biology
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Dept. of Horticulture & Plant Resilience Institute at Michigan State University
+    url: [https://www.stanford.edu/](https://plantresilience.msu.edu)
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I'm interested in the evolution of plant photosynthesis and stress responses
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Flowering plants (especially _Portulaca_)
+  - Comparative biology
+  - Phylogenomics
+  - Plant ecophysiology
+  - Single-cell "omics"
+  - Gene networks and regulation
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Ecology & Evolutionary Biology
+      institution: Yale University
+      year: 2023
+    - course: MSc in Ecology & Evolutionary Biolgoy
+      institution: Yale University
+      year: 2021
+    - course: MSc in Biological Sciences
+      institution: University of Idaho
+      year: 2017
+    - course: BSc in Physics
+      institution: Bucknell University
+      year: 2015
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -61,30 +64,20 @@ skills:
         percent: 100
         icon: chart-line
         icon_pack: fas
-      - name: SQL
+      - name: R
         description: ''
         percent: 40
-        icon: database
-        icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
-        icon_pack: fas
+        icon: r-project
+        icon_pack: fab
+#  - name: Hobbies
+#    color: '#eeac02'
+#    color_border: '#f0bf23'
+#    items:
+#      - name: Hiking
+#        description: ''
+#        percent: 60
+#        icon: person-hiking
+#        icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -94,31 +87,23 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.co.uk/citations?user=qXu5zSwAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/isgilman
+
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/Gilman-CV.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Ian S. Gilman is a National Science Foundation (NSF) Postdoctoral Fellow in Biology studying the evolution of photosynthetic gene networks in the lab of Dr. Robert VanBuren at Michigan State University.
 {style="text-align: justify;"}
