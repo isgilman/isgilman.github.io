@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ian S. Gilman
+title: ''
 
 # Full name (for SEO)
 first_name: Ian
@@ -94,5 +94,5 @@ social:
 highlight_name: true
 ---
 
-Ian S. Gilman is a National Science Foundation (NSF) Postdoctoral Research Fellow in Biology studying the evolution of photosynthetic gene networks in the lab of Dr. Robert VanBuren at Michigan State University.
+I am a National Science Foundation (NSF) Postdoctoral Research Fellow in Biology studying the evolution of photosynthetic gene networks in the lab of Dr. Robert VanBuren at Michigan State University.
 {style="text-align: justify;"}
