@@ -41,7 +41,7 @@ links:
     icon_pack: fab
     name: Watch talk
     url: https://www.youtube.com/watch?v=hJwdhU81hIk
-  - icon: presentation-chart-bar
+  - icon: hero/presentation-chart-bar
     icon_pack: hero
     name: View slides
     url: https://github.com/isgilman/isgilman.github.io/blob/main/content/event/Yale-Peabody-2023/2023-Feb-Peabody-Lecture.pdf
