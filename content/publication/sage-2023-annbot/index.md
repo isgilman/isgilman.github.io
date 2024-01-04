@@ -1,5 +1,5 @@
 ---
-title: Atmospheric CO$_2$ decline and the timing of CAM plant evolution
+title: Atmospheric CO2 decline and the timing of CAM plant evolution
 authors:
 - Rowan F Sage
 - Ian S Gilman
