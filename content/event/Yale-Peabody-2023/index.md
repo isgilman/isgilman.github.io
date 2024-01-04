@@ -43,7 +43,7 @@ links:
     url: https://www.youtube.com/watch?v=hJwdhU81hIk
 url_code: ''
 url_pdf: ''
-url_slides: ''
+url_slides: 'content/event/Yale-Peabody-2023/2023-Feb-Peabody-Lecture.pdf'
 url_video: ''
 
 # Markdown Slides (optional).
@@ -51,7 +51,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: `content/event/Yale-Peabody-2023/2023-Feb-Peabody-Lecture.pdf`
+# slides: `content/event/Yale-Peabody-2023/2023-Feb-Peabody-Lecture`
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
