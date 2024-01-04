@@ -18,7 +18,7 @@ role: NSF Postdoctoral Research Fellow in Biology
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Dept. of Horticulture & Plant Resilience Institute at Michigan State University
+  - name: Michigan State University
 #    url: [https://www.stanford.edu/](https://plantresilience.msu.edu)
 
 # Short bio (displayed in user profile at end of posts)

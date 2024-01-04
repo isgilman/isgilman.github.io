@@ -39,7 +39,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: About
+      title: ''
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: experience
@@ -62,7 +62,7 @@ sections:
           date_start: '2023-06-15'
           date_end: ''
           description: |2-
-              I am a member of the Horticulture Department and Plant Resilience Institute. My current project aims to use single-nuclei RNA sequecing and chromatin accessibility assays to describe photosynthetic gene regulatory networks in the flowering plan _Portulaca amilis_, which is capable of using both C4 photosynthesis and Crassulacean acid metabolism.
+              I am a member of the Horticulture Department and Plant Resilience Institute. My current project aims to use single-nuclei RNA sequencing and chromatin accessibility assays to describe photosynthetic gene regulatory networks in the flowering plant _Portulaca amilis_, which is capable of using both C4 photosynthesis and Crassulacean acid metabolism.
 
     design:
       columns: '2'
@@ -205,14 +205,14 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: skills
-    content:
-      title: Skills
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
-    design:
-      columns: '1'
+  # - block: skills
+  #   content:
+  #     title: Skills
+  #     text: ''
+  #     # Choose a user to display skills from (a folder name within `content/authors/`)
+  #     username: admin
+  #   design:
+  #     columns: '1'
   - block: tag_cloud
     content:
       title: Popular Topics
@@ -224,7 +224,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        ''
       # Contact (add or remove contact options as necessary)
       email: gilmania@msu.edu
       # phone: 888 888 88 88
