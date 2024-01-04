@@ -20,7 +20,7 @@ In this talk, graduate student Ian Gilman will review how evolution by duplicati
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2023-02-09T16:00:00Z'
-date_end: '2030-06-01T17:00:00Z'
+date_end: '2030-02-09T17:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -30,7 +30,7 @@ authors: [Ian S Gilman]
 tags: [gene duplication, gene networks, Crassulacean acid metabolism, C4 photosynthesis, genome duplication, RNAseq]
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 image:
   # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
@@ -51,7 +51,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: 'content/event/Yale-Peabody-2023/2023-Feb-Peabody-Lecture.pdf'
+slides: 'content/event/Yale-Peabody-2023/2023-Feb-Peabody-Lecture'
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
