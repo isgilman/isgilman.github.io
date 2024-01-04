@@ -224,7 +224,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        ''
+        
       # Contact (add or remove contact options as necessary)
       email: gilmania@msu.edu
       # phone: 888 888 88 88
