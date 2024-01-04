@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Botanist and evolutionary biologist
+role: Postdoc, botanist, and evolutionary biologist
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -94,5 +94,5 @@ social:
 highlight_name: true
 ---
 
-I am a National Science Foundation (NSF) Postdoctoral Research Fellow in Biology in the lab of Dr. Robert VanBuren at Michigan State University. My research is broadly focused on the evolution of plant photosynthesis from genes and gene regulation to plant anatomy and life history. This work varies greatly in form and scale; for example, sequencing the genome single species with a rare photosynthesis system or measuring the correlations be plant anatomy and photosynthesis across all flowering plants. The common thread throughout my research is the use of comparative  methods, as _nothing in biology makes sense except in the light of evolution_ (Dobzhansky).
+I am a National Science Foundation (NSF) Postdoctoral Research Fellow in Biology in the lab of Dr. Robert VanBuren at Michigan State University. My research is broadly focused on the evolution of plant photosynthesis from genes and gene regulation to plant anatomy and life history. This work varies greatly in form and scale; for example, sequencing the genome of single species with a rare photosynthetic system to measuring the correlations between anatomy and photosynthesis across all flowering plants. The common thread throughout my research is the use of comparative  methods, as _nothing in biology makes sense except in the light of evolution_ (Dobzhansky).
 {style="text-align: justify;"}
