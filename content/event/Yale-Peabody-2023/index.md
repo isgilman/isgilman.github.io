@@ -20,7 +20,7 @@ In this talk, graduate student Ian Gilman will review how evolution by duplicati
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2023-02-09T16:00:00Z'
-date_end: '2030-02-09T17:00:00Z'
+date_end: '2023-02-09T17:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -39,11 +39,15 @@ image:
 links:
   - icon: youtube
     icon_pack: fab
-    name: View talk
+    name: Watch talk
     url: https://www.youtube.com/watch?v=hJwdhU81hIk
+  - icon: presentation-chart-bar
+    icon_pack: hero
+    name: View slides
+    url: https://github.com/isgilman/isgilman.github.io/blob/main/content/event/Yale-Peabody-2023/2023-Feb-Peabody-Lecture.pdf
 url_code: ''
 url_pdf: ''
-url_slides: 'content/event/Yale-Peabody-2023/2023-Feb-Peabody-Lecture.pdf'
+url_slides: 'https://github.com/isgilman/isgilman.github.io/blob/main/content/event/Yale-Peabody-2023/2023-Feb-Peabody-Lecture.pdf'
 url_video: ''
 
 # Markdown Slides (optional).
@@ -51,7 +55,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: 'content/event/Yale-Peabody-2023/2023-Feb-Peabody-Lecture'
+slides: 'https://github.com/isgilman/isgilman.github.io/blob/main/content/event/Yale-Peabody-2023/2023-Feb-Peabody-Lecture.pdf'
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
