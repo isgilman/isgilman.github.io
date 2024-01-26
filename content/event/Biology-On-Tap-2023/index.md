@@ -18,7 +18,7 @@ abstract: 'With over 300,000 species, flowering plants are one of the most diver
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2024-02-01T19:00:00Z'
-date_end: '2023-02-01T19:30:00Z'
+date_end: '2024-02-01T19:30:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
