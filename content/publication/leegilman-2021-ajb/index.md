@@ -6,9 +6,9 @@ authors:
 - Mansa Srivastav
 - Ariel D Lerner
 - Michael J Donoghue
-- Wendy L Clement (*equal authorship)
+- Wendy L (*equal authorship) Clement
 date: '2021-01-01'
-publishDate: '2024-01-04T20:22:27.132695Z'
+publishDate: '2024-01-04T20:19:13.454903Z'
 publication_types:
 - article-journal
 publication: '*American Journal of Botany*'
