@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ian S. Gilman
+title: ''
 
 # Full name (for SEO)
 first_name: Ian
@@ -14,15 +14,15 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: NSF Postdoctoral Research Fellow in Biology
+role: Postdoc, botanist, and evolutionary biologist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Dept. of Horticulture & Plant Resilience Institute at Michigan State University
+  - name: Michigan State University
 #    url: [https://www.stanford.edu/](https://plantresilience.msu.edu)
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm interested in the evolution of plant photosynthesis and stress responses
+bio: I'm interested in the evolution of plant photosynthesis and stress responses.
 
 # Interests to show in About widget
 interests:
@@ -76,8 +76,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=qXu5zSwAAAAJ
   - icon: github
     icon_pack: fab
@@ -94,5 +94,5 @@ social:
 highlight_name: true
 ---
 
-Ian S. Gilman is a National Science Foundation (NSF) Postdoctoral Research Fellow in Biology studying the evolution of photosynthetic gene networks in the lab of Dr. Robert VanBuren at Michigan State University.
+I am a National Science Foundation (NSF) Postdoctoral Research Fellow in Biology in the lab of Dr. Robert VanBuren at Michigan State University. My research is broadly focused on the evolution of plant photosynthesis from genes and gene regulation to plant anatomy and life history. This work varies greatly in form and scale; for example, sequencing the genome of single species with a rare photosynthetic system to measuring the correlations between anatomy and photosynthesis across all flowering plants. The common thread throughout my research is the use of comparative  methods, as _nothing in biology makes sense except in the light of evolution_ (Dobzhansky).
 {style="text-align: justify;"}

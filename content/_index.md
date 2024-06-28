@@ -39,7 +39,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: ''
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: experience
@@ -54,18 +54,15 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: NSF Postdoctoral Research Fellow in Biology
-          company: Dept. of Horticulture and Plant Resilience Institute, Michigan State University
+        - title: NSF Postdoctoral Research Fellow in Biology (Area 3, Plant Genomes)
+          company: Michigan State University
           company_url: 'https://plantresilience.msu.edu'
           # company_logo: org-gc
           location: East Lansing, MI, USA
           date_start: '2023-06-15'
           date_end: ''
           description: |2-
-              NSF PRFB (Area 3: Plant Genomes). Project aims include
-                - Optimize single-nuclei RNAseq (snRNAseq) workflow for non-model species _Portulaca amilis_
-                - Combine snRNAseq and chromatin accessibility assays to build photosynthetic gene regulatory networks in _P. amilis_
-                - Comparative genomic analyses of species with differing Crassulacean acid metabolism (CAM) phenotypes
+              I am a member of the Horticulture Department and Plant Resilience Institute. My current project aims to use single-nuclei RNA sequencing and chromatin accessibility assays to describe photosynthetic gene regulatory networks in the flowering plant _Portulaca amilis_, which is capable of using both C4 photosynthesis and Crassulacean acid metabolism.
 
     design:
       columns: '2'
@@ -185,6 +182,7 @@ sections:
   #     columns: '2'
   #     view: card
   - block: collection
+    id: publications
     content:
       title: Publications
       text: |-
@@ -208,14 +206,14 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: skills
-    content:
-      title: Skills
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
-    design:
-      columns: '1'
+  # - block: skills
+  #   content:
+  #     title: Skills
+  #     text: ''
+  #     # Choose a user to display skills from (a folder name within `content/authors/`)
+  #     username: admin
+  #   design:
+  #     columns: '1'
   - block: tag_cloud
     content:
       title: Popular Topics
@@ -227,7 +225,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        
       # Contact (add or remove contact options as necessary)
       email: gilmania@msu.edu
       # phone: 888 888 88 88
