@@ -1,0 +1,46 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Ian S. Gilman
+    - name: Email
+      value: igilman@fairfield.edu
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD, Ecology & Evolutionary Biology
+      institution: Yale University
+      year: 2023
+      description:
+        - "Advisor: Dr. Erika J. Edwards"
+    - title: MS, Ecology & Evolutionary Biology
+      institution: Yale University
+      year: 2021
+    - title: MS, Biological Sciences
+      institution: University of Idaho
+      year: 2017
+      description:
+        - "Advisor: Dr. David C. Tank"
+    - title: BS, Physics
+      institution: Bucknell University
+      year: 2015
+
+- title: Positions
+  type: time_table
+  contents:
+    - title: Faculty
+      institution: Department of Biology, Fairfield University
+      year: current
+
+- title: Teaching, Service & Mentorship
+  type: time_table
+  contents:
+    - title: "Mentor, Preparing Leaders and Nurturing Tomorrow's Scientists (PLANTS)"
+      year: "2016, 2023, 2025"
+    - title: ROOT & SHOOT Working Group for Culturally Aware Mentorship
+      year: 2023 - 2025
+    - title: Botanical Society of America Investment Committee
+      year: 2018 - 2021
+    - title: Mentor, Planting Science
+      year: 2016 - 2019

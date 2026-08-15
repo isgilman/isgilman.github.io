@@ -1,27 +1,39 @@
 # gilmanlab.com
 
-Source for Ian Gilman's personal/lab site, hosted free on GitHub Pages.
+Source for Ian Gilman's personal/lab site, hosted free on GitHub Pages using the
+[al-folio](https://github.com/alshedivat/al-folio) Jekyll theme.
 
 ## How this site works
 
-Plain HTML files, no build step. Each page (`index.html`, `publications.html`,
-`projects.html`, `people.html`, `courses.html`, `about.html`) repeats the same
-header/nav and footer &mdash; there's no templating, so what you see in the file
-is exactly what appears on the page. One shared stylesheet at
-`assets/css/style.css` controls all the visual styling.
+Every push to `main` triggers a GitHub Actions workflow (`.github/workflows/deploy.yml`)
+that builds the site with Jekyll and publishes it &mdash; there's nothing to build or run
+locally to make a change go live. The live site updates within a minute or two of pushing.
 
-## Common edits
+Content lives in plain text/YAML files, not code:
 
-- **Add a news item**: edit `index.html`, add a new `<li>` to the top of the
-  `<ul class="news-list">` list.
-- **Add a publication**: edit `publications.html`, copy one `<li class="pub-entry">...</li>`
-  block and edit the text/links. Drop the PDF into `/papers/`.
-- **Add a project**: edit `projects.html`, copy one `<div class="project-card">...</div>` block.
-- **Add a person/course**: edit `people.html` or `courses.html`, add a `<li>`.
-- **Change the nav bar**: the same `<nav>...</nav>` block appears at the top of
-  every page &mdash; edit it in each file (there are 6).
+- **News** (`_news/`) &mdash; one file per item, shown on the home page. Copy an existing
+  file, change the date and text.
+- **Publications** (`_bibliography/papers.bib`) &mdash; one BibTeX entry per paper. Add a
+  new entry, drop the PDF into `assets/pdf/`, and reference it with `pdf = {filename.pdf}`.
+- **Projects** (`_projects/`) &mdash; one file per project tile. Copy an existing file and
+  edit the title/description/image; `{% cite key %}` pulls in a formatted citation from
+  `papers.bib`.
+- **CV** (`_data/cv.yml`) &mdash; structured data for the on-page CV summary. The
+  downloadable PDF is `assets/pdf/gilman-cv.pdf`.
+- **People** (`_pages/people.md`) and **Courses** (`_pages/courses.md`) &mdash; currently
+  simple placeholder pages; edit the text directly.
+- **About/contact** (`_pages/about.md`) &mdash; bio, address, profile photo
+  (`assets/img/prof_pic.jpg`). Email/GitHub/CV links are in `_data/socials.yml`.
 
-## Publishing changes
+Site-wide settings (name, description, domain) are in `_config.yml`.
 
-Any push to the `main` branch of this repo automatically updates the live site
-within a minute or two (GitHub Pages rebuilds on every push).
+## Local preview (optional)
+
+Not required to publish &mdash; only useful if you want to see a change before pushing it.
+
+```bash
+bundle install
+bundle exec jekyll serve
+```
+
+Then open the URL it prints (usually `http://localhost:4000`).
