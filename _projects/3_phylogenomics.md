@@ -2,7 +2,7 @@
 layout: page
 title: Phylogenomics of Portullugo & beyond
 description: Methods for reconstructing evolutionary histories from phylogenomic and museum-specimen data.
-img: assets/img/project-phylogenomics.jpg
+img: assets/img/Transition-Rates-Supplementary-Figure-S8.jpg
 importance: 3
 category:
 related_publications: true

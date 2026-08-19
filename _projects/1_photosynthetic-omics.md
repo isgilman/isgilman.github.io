@@ -2,7 +2,7 @@
 layout: page
 title: Gene regulation of CAM & C4 photosynthesis
 description: Single-nuclei sequencing of the regulatory architecture behind integrated C4+CAM photosynthesis in <em>Portulaca</em>.
-img: assets/img/project-photosynthetic-omics.png
+img: assets/img/Portulaca-amilis-C4+CAM.jpg
 importance: 1
 category:
 related_publications: true
