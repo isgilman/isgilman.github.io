@@ -2,13 +2,43 @@
 layout: page
 permalink: /people/
 title: people
-description: members of the lab or group
+description: Members of the Gilman lab
 nav: true
 nav_order: 5
 ---
 
-Undergraduate researchers I've had the privilege of working with:
+**Are you a Fairfield undergrad interested in plants, genomics, or computational biology and curious about getting started in research? Send me an email or drop by my office!**
 
-&mdash; add names here, e.g. "Jane Doe (2025&ndash;present) &mdash; single-nuclei sequencing in *Portulaca*" &mdash;
+<div class="row row-cols-1 row-cols-md-3 mt-4">
 
-<p class="text-muted">To add a real profile card (photo + bio) for someone, switch this page's <code>layout</code> back to <code>profiles</code> and follow the example in al-folio's own <code>_pages/profiles.md</code> documentation comments.</p>
+  <div class="col">
+    <div class="card h-100">
+      {% include figure.liquid loading="eager" path="assets/img/prof_pic.jpg" class="card-img-top" alt="Ian Gilman" %}
+      <div class="card-body">
+        <h2 class="card-title">Ian Gilman</h2>
+        <p class="card-text">Principal Investigator</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="col">
+    <div class="card h-100">
+      {% include figure.liquid loading="eager" path="assets/img/maggie-flowers.jpg" class="card-img-top" alt="Maggie" %}
+      <div class="card-body">
+        <h2 class="card-title">Maggie</h2>
+        <p class="card-text">Lab Manager</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="col">
+    <div class="card h-100">
+      {% include figure.liquid loading="eager" path="assets/img/frank-glasses.jpg" class="card-img-top" alt="Frank" %}
+      <div class="card-body">
+        <h2 class="card-title">Frank</h2>
+        <p class="card-text">Relaxation Consultant</p>
+      </div>
+    </div>
+  </div>
+
+</div>
