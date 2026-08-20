@@ -5,6 +5,7 @@ description: One-offs and side projects I'm involved in.
 img: assets/img/Chiloschista-trudelii-cutout.png
 importance: 5
 category:
+related_publications: true
 ---
 
 **Single nuclei and spatial RNA sequencing of desiccation tolerant plants**
