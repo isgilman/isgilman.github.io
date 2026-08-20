@@ -58,7 +58,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-gene-regulation-of-cam-amp-c4-photosynthesis",
           title: 'Gene regulation of CAM &amp;amp; C4 photosynthesis',
-          description: "Single-nuclei sequencing of the regulatory architecture behind integrated C4+CAM photosynthesis in Portulaca.",
+          description: "Mapping the gene regulatory networks of integrated C4+CAM photosynthesis in Portulaca with single-nuclei RNA sequencing and comparative multi-omics.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_photosynthetic-omics/";
             },},{id: "projects-pelargonium-cam-genome-project",
@@ -71,11 +71,16 @@ ninja.data = [{
           description: "Methods for reconstructing evolutionary histories from phylogenomic and museum-specimen data.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_phylogenomics/";
-            },},{id: "projects-comparative-anatomy-physiology-amp-machine-learning",
-          title: 'Comparative anatomy, physiology &amp;amp; machine learning',
-          description: "Linking photosynthetic anatomy, physiology, and gene expression across vascular plants.",
+            },},{id: "projects-phenotyping-comparative-biology-amp-machine-learning",
+          title: 'Phenotyping, comparative biology, &amp;amp; machine learning',
+          description: "Linking photosynthetic anatomy, physiology, and genomic features across vascular plants.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_comparative-biology/";
+            },},{id: "projects-other-projects",
+          title: 'Other projects',
+          description: "One-offs and side projects I&#39;m involved in.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/5_misc-projects/";
             },},{
         id: 'social-cv',
         title: 'CV',
