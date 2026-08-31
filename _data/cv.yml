@@ -6,6 +6,16 @@
     - name: Email
       value: igilman@fairfield.edu
 
+- title: Positions
+  type: time_table
+  contents:
+    - title: Assistant Professor
+      institution: Department of Biology, Fairfield University
+      year: current
+    - title: "National Science Foundation Postdoctoral Research Fellow in Biology (Area 3: Plant Genomes)"
+      institution: Department of Plant Biology and Plant Resilience Institute, Michigan State University
+      year: 2023 - 2026
+
 - title: Education
   type: time_table
   contents:
@@ -25,16 +35,6 @@
     - title: BS, Physics
       institution: Bucknell University
       year: 2015
-
-- title: Positions
-  type: time_table
-  contents:
-    - title: Assistant Professor
-      institution: Department of Biology, Fairfield University
-      year: current
-    - title: "National Science Foundation Postdoctoral Research Fellow in Biology (Area 3: Plant Genomes)"
-      institution: Department of Plant Biology and Plant Resilience Institute, Michigan State University
-      year: 2023 - 2026
 
 - title: Teaching, Service & Mentorship
   type: time_table
