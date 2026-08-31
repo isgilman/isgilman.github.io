@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-12-2 12:00:00-0400
+date: 2026-04-20 12:00:00-0400
 inline: true
 related_posts: false
 ---
 
-I accepted a position to join the [Biology Department at Fairfield University](https://www.fairfield.edu/academics/majors-and-minors/biology/) next fall as an assistant professor!.
+The Plant Resilience Institue at Michigan State awarded a seed grant to me and VanBuren Lab PhD candidate Jenny Schuster. Our project "Defining transcriptional cell states in desiccation tolerant plants with spatial RNAseq" will leverage a new 10X Visium machine at the RTSF Genomics Core to integrate spatial RNAseq into our single cell research on desiccation tolerant plants.
