@@ -4,4 +4,5 @@
 cv_pdf: /assets/pdf/gilman-cv.pdf # path to your CV PDF file
 email: igilman@fairfield.edu # your email address
 github_username: isgilman
+scholar_userid: spqmBGsAAAAJ # your Google Scholar ID (from the URL of your profile)
 rss_icon: true # comment this line to hide the RSS icon
