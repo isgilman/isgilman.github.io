@@ -12,5 +12,6 @@ _Pelargonium_, “wild geraniums” or “Pellies,” are economically important
 **Funding:**
 - Department of Energy, Joint Genome Institute Community Science Award for New Investigators: [_The genomics of rapidly evolving CAM photosynthesis in Pelargonium_](https://jgi.doe.gov/user-science/science-stories/jgi-announces-2025-new-investigator-portfolio) (2025 – 2028)
     - Collaborators: Dr. Robert VanBuren (MSU), Dr. Karolina Heyduk (UCONN), Dr. Cynthia Jones (UCONN)
+- NASA Connecticut Space Grant Consortium Faculty Project Grant: _Lowering Space Agricultural Inputs by Utilizing Crassulacean Acid Metabolism_ (2026 – 2027)
 
 No linked publications yet.
